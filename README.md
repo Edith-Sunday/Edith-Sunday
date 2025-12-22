@@ -4,7 +4,7 @@
 - 🌱Currently pursuing: Diploma in Data Analysis at AltSchool Africa
 - Open to: Internships, collaborations, and real-world projects in data and business analytics, research, or R&D.
 - Tools: Python, R, SQL, Excel, Tableau, PowerBI and web scraping libraries like BeautifulSoup, Scrapy and Selenium
-- Interests: Finance, Health, Data-driven research, automation, and continuous learning
+- Interests:  Data-driven research, automation, and continuous learning
 
 - 📫Let's Connect!
 I'm always open to interesting opportunities and collaborations.
